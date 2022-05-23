@@ -1,3 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
+María Catalina Ibañez Piñeres
+Matría Alejandra Pérez Petro
 TODO
