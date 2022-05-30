@@ -1,3 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+
+* Requerimiento 3: Pablo Martinez
+* Requerimiento 4: Daniel pedroza

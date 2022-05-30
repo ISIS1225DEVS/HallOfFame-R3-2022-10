@@ -1,3 +1,4 @@
 # INTEGRANTES
-María Catalina Ibañez Piñeres
-Matría Alejandra Pérez Petro
+
+* Requerimiento 3: María Catalina Ibañez Piñeres
+* Requerimiento 4: María Alejandra Pérez Petro

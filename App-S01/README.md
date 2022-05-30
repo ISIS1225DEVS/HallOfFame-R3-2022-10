@@ -1,6 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-## Grupo 15
 
-- Álvaro Andrés Bacca Peña
-- Juan Sebastián Hernández Villamizar
+* Requerimiento 2: Álvaro Andrés Bacca Peña
+* Requerimiento 3: Juan Sebastián Hernández Villamizar
